@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sina
+### Bonjour / Hallo
 
 My name is Mohammadmahdi, but I go by Sina. I'm in the final year of my M.Sc. in Applied Computer Science (smart cities) at **Vrije Universiteit Brussel**, working at the intersection of **Privacy** and **Artificial Intelligence**.
 
