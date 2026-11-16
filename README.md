@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Sina
 
-<!--
-**MohammadMahdiKhaji/MohammadMahdiKhaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mohammadmahdi, but I go by Sina. I'm in the final year of my M.Sc. in Applied Computer Science (smart cities) at **Vrije Universiteit Brussel**, working at the intersection of **Privacy** and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on my thesis under Prof. Dr. An Braeken
+- 📡 Previously: Research Intern at **UCD NetsLab** (O-RAN, xApps, Federated Unlearning) and Software Engineer Intern at **Dotin** (banking Switch in Java/Spring Boot)
+- 📫 How to reach me: sinakhaji5@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech
+Java · Python · SQL · Spring Boot · Docker · Kubernetes · Hibernate
+
+#### 📊 Most used languages
+![Top Langs](./profile-summary-card-output/default/1-repos-per-language.svg)
