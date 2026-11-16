@@ -9,14 +9,8 @@ My name is Mohammadmahdi, but I go by Sina. I'm in the final year of my M.Sc. in
 #### 🛠️ Tech
 Java · Python · SQL · Spring Boot · Docker · Kubernetes · Hibernate
 
-#### 📊 Most used languages
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" width="49%">
-  </picture>
-</p>
+#### 📈 GitHub activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub activity" width="100%">
+</picture>
